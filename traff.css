@@ -1,0 +1,34 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	width: 100%;
+	height: 100%;
+     background:#000;
+}
+
+#traffic_box{
+	width: 100px;
+	height:300px;
+	border: 2px solid #fff;
+	margin: 150px auto;
+}
+#green,#yellow,#red{
+	padding: 45px;
+	border: 1px solid #fff;
+	border-radius: 100%;
+	margin: 5px;
+
+}
+#sec{
+	 margin-top: 30px;
+	 margin-left: 20px;
+
+}
+button{
+	 padding: 10px 20px;
+	 margin-top: 20px;
+	 margin-left: 40px;
+}
